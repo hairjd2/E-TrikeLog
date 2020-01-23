@@ -9,7 +9,7 @@ import Adafruit_CharLCD as LCD
 db = mysql.connector.connect(
   host="localhost",
   user="grapeadmin",
-  passwd="grapetime!",
+  passwd="********",
   database="etrikelog"
 )
 
